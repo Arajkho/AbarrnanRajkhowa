@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AbarrnanRajkhowa working as Lecturer in Computer Science Engineering
+- 👋 Hi, I’m @Arajkho working as Lecturer in Computer Science Engineering
 - 👀 I’m interested in ... Data Structure , Algorithm , Machine Learning , NLP
 - 🌱 I’m currently learning ... ML and NLP
 - 💞️ I’m looking to collaborate on ... Any FOS ML project
